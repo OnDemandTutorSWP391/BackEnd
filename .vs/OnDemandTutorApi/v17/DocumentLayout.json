@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\dataaccesslayer\\entity\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\dataaccesslayer\\entity\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\dataaccesslayer\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\dataaccesslayer\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\dataaccesslayer\\entity\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\dataaccesslayer\\entity\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\dataaccesslayer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\dataaccesslayer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\dataaccesslayer\\repositories\\contracts\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\dataaccesslayer\\repositories\\contracts\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\businesslogiclayer\\dto\\usedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\businesslogiclayer\\dto\\usedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|e:\\fpt_semester_5\\csharp\\seri_webapi\\ondemandtutorapi\\ondemandtutorapi\\dataaccesslayer\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}|OnDemandTutorApi\\OnDemandTutorApi.csproj|solutionrelative:ondemandtutorapi\\dataaccesslayer\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\DataAccessLayer\\Entity\\Student.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\Student.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\DataAccessLayer\\Entity\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:10:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\Tutor.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\DataAccessLayer\\Entity\\Tutor.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\Tutor.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\DataAccessLayer\\Entity\\Tutor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:10:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Repositories\\Contracts\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\DataAccessLayer\\Repositories\\Contracts\\IUserRepo.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Repositories\\Contracts\\IUserRepo.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\DataAccessLayer\\Repositories\\Contracts\\IUserRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:22:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\DataAccessLayer\\Entity\\MyDbContext.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\MyDbContext.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\DataAccessLayer\\Entity\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:12:22.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\appsettings.json",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\appsettings.json",
+              "RelativeToolTip": "OnDemandTutorApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T03:04:05.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\DataAccessLayer\\Entity\\User.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\Entity\\User.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\DataAccessLayer\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:50:23.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\Program.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\Program.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\Program.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:40:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\DataAccessLayer\\DAO\\UserDAO.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\DataAccessLayer\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\DataAccessLayer\\DAO\\UserDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:38:55.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UseDTO.cs",
+              "DocumentMoniker": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\BusinessLogicLayer\\DTO\\UseDTO.cs",
+              "RelativeDocumentMoniker": "OnDemandTutorApi\\BusinessLogicLayer\\DTO\\UseDTO.cs",
+              "ToolTip": "E:\\FPT_Semester_5\\CSHARP\\Seri_WebApi\\OnDemandTutorApi\\OnDemandTutorApi\\BusinessLogicLayer\\DTO\\UseDTO.cs",
+              "RelativeToolTip": "OnDemandTutorApi\\BusinessLogicLayer\\DTO\\UseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:38:32.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

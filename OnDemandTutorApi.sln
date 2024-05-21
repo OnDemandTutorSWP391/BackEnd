@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnDemandTutorApi", "OnDemandTutorApi\OnDemandTutorApi.csproj", "{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D06CA62-8D69-42EF-AA9D-BAAE6FF72BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2CA552E-6981-4D32-B32C-5C995C7AB846}
+	EndGlobalSection
+EndGlobal
